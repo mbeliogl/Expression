@@ -12,7 +12,7 @@
 Binary trees are a natural representation of arithmetic expressions. 
 For instance, the expression y * (4 \+ x * 0) can be represented by the following tree: 
 
-![tree](/Users/maximbelioglo/Desktop/College git/CS2/Expression /Capture.PNG):
+![tree](Capture.PNG):
 
 
 
